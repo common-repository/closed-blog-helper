@@ -1,0 +1,115 @@
+# Copyright (C) 2012 Closed blog helper
+# This file is distributed under the same license as the Closed blog helper package.
+msgid ""
+msgstr ""
+"Project-Id-Version: Closed blog helper 1.3.1\n"
+"Report-Msgid-Bugs-To: http://wordpress.org/tag/closed-blog-helper\n"
+"POT-Creation-Date: 2012-01-23 08:20:43+00:00\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"PO-Revision-Date: 2012-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+
+#: closed-blog-helper.php:110
+msgid "Closed Blog Helper Settings"
+msgstr ""
+
+#: closed-blog-helper.php:110
+msgid "Closed Blog Helper"
+msgstr ""
+
+#: closed-blog-helper.php:139
+msgid "Closed Blog Helper settings"
+msgstr ""
+
+#: closed-blog-helper.php:140
+msgid "Information"
+msgstr ""
+
+#: closed-blog-helper.php:142
+msgid ""
+"Here you can specify the messages that will be printed instead of %s "
+"according to the situation."
+msgstr ""
+
+#: closed-blog-helper.php:145
+msgid "You can use HTML syntax and following keywords:"
+msgstr ""
+
+#: closed-blog-helper.php:148
+msgid "user login name"
+msgstr ""
+
+#: closed-blog-helper.php:149
+msgid "displayed user's nickname"
+msgstr ""
+
+#: closed-blog-helper.php:150
+msgid "main blog page url"
+msgstr ""
+
+#: closed-blog-helper.php:151
+msgid "login page url"
+msgstr ""
+
+#: closed-blog-helper.php:152
+msgid "administrator's e-mail address"
+msgstr ""
+
+#: closed-blog-helper.php:153
+msgid "superadministrator's e-mail address (works on multisite only)"
+msgstr ""
+
+#: closed-blog-helper.php:156
+msgid ""
+"If you'd like to have more keywords or another functionality implemented, "
+"kindly contact the plugin developer via %s"
+msgstr ""
+
+#: closed-blog-helper.php:158
+msgid "Settings"
+msgstr ""
+
+#: closed-blog-helper.php:163
+msgid "Superadmin"
+msgstr ""
+
+#: closed-blog-helper.php:169
+msgid "Blog owner / admin"
+msgstr ""
+
+#: closed-blog-helper.php:175
+msgid "Logged in registered user"
+msgstr ""
+
+#: closed-blog-helper.php:181
+msgid "Logged in user without registration"
+msgstr ""
+
+#: closed-blog-helper.php:187
+msgid "Visitor"
+msgstr ""
+
+#: closed-blog-helper.php:194
+msgid "Save"
+msgstr ""
+
+#. Plugin Name of the plugin/theme
+msgid "Closed blog helper"
+msgstr ""
+
+#. Description of the plugin/theme
+msgid ""
+"Instead of a shortcode [closed-blog-helper] shows (customizable) message for "
+"the visitor according to their access rights to the blog."
+msgstr ""
+
+#. Author of the plugin/theme
+msgid "Zaantar"
+msgstr ""
+
+#. Author URI of the plugin/theme
+msgid "http://zaantar.eu"
+msgstr ""
